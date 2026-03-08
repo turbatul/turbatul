@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=180&section=header&text=Turbatul%20Jannah&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Storyteller%20with%20Data&descAlignY=58&descSize=18" width="100%"/>
 
 
+<img align="right" height="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 ### 🌸 About Me
 ```
