@@ -3,13 +3,7 @@
 
 Data Analyst with strong skills in data wrangling, statistical analysis, and data visualization. Passionate about uncovering patterns in data and communicating findings clearly through compelling presentations and storytelling.
 
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=turbatulJannah&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbatulJannah&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="150"/>
-</div>
 
----
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJnOTk4OTF6c203cHlqempvcXk2ZGRhbXphc2F2MmFvMGl0NGpnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X8Vx8K7fv54g9jMWQ5/giphy.gif" />
 
