@@ -42,9 +42,7 @@
 
 <div align="center">
   <h3>📈 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=turbatul&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbatul&layout=compact&langs_count=5&theme=rose_pine&hide_border=true" height="150"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=turbatul&theme=rosewater&hide_border=true&area=true" width="95%"/>
