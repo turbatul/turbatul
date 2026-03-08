@@ -1,51 +1,73 @@
-<h1 align="center">Hi 👋, I'm Turbatul Jannah</h1>
-<h3 align="center">📊 Data Analyst | Turning Data into Meaningful Insights</h3>
+<div align="center">
 
-Data Analyst with strong skills in data wrangling, statistical analysis, and data visualization. Passionate about uncovering patterns in data and communicating findings clearly through compelling presentations and storytelling.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=180&section=header&text=Turbatul%20Jannah&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Storyteller%20with%20Data&descAlignY=58&descSize=18" width="100%"/>
 
-
-
-
-<div align="left">
-  <h3>🛠 Languages & Tools</h3>
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  </div>
 </div>
 
-###
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=📊+Transforming+raw+data+into+real+stories;🎤+Communicating+insights+with+clarity+%26+style" alt="Typing SVG" />
+</div>
+
+---
+
+<img align="right" height="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+
+### 🌸 About Me
+```
+✨ Role        →  Data Analyst
+📊 Passion     →  Turning complex data into clear insights
+🎤 Strength    →  Communication & Presentation
+🌱 Learning    →  Advanced Visualization & ML basics
+💡 Goal        →  Making data-driven decisions accessible to all
+```
+
+<br clear="both"/>
 
 ---
 
 <div align="center">
-  <h3>🔗 Connect with me</h3>
-  <a href="https://github.com/turbatul" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" height="35" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/turba-tul-jannah-6aba0b345/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:turbatulj@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
+  <h3>🌷 Languages & Tools</h3>
+
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode&theme=light" /><br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </div>
 
 ---
 
-<br clear="both">
+<div align="center">
+  <h3>📈 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=turbatul&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbatul&layout=compact&langs_count=5&theme=rose_pine&hide_border=true" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=turbatul&theme=rosewater&hide_border=true&area=true" width="95%"/>
+</div>
+
+---
+
+<div align="center">
+  <h3>🌸 Let's Connect</h3>
+
+  <a href="https://github.com/turbatul" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=8B5CF6&style=for-the-badge&labelColor=1a1a2e" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/turba-tul-jannah-6aba0b345/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=C084FC&style=for-the-badge&labelColor=1a1a2e" height="35" />
+  </a>
+  <a href="mailto:turbatulj@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=F472B6&style=for-the-badge&labelColor=1a1a2e" height="35" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=100&section=footer" width="100%"/>
+</div>
