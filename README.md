@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <h3>🌷 Languages & Tools</h3>
+  <h3>Languages & Tools</h3>
 
   <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode&theme=light" /><br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
