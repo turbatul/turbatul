@@ -35,13 +35,13 @@ Data Analyst with strong skills in data wrangling, statistical analysis, and dat
 
 <div align="center">
   <h3>🔗 Connect with me</h3>
-  <a href="https://github.com/turbatulJannah" target="_blank">
+  <a href="https://github.com/turbatul" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" height="35" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/turbatulJannah/" target="_blank">
+  <a href="https://www.linkedin.com/in/turba-tul-jannah-6aba0b345/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="mailto:turbatulJannah@gmail.com" target="_blank">
+  <a href="mailto:turbatulj@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail" />
   </a>
 </div>
